@@ -2,6 +2,7 @@
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) pipeline
 that enables querying and summarization of YouTube videos using LLMs.
+Notebook used for rapid iteration; pipeline designed to be **framework-agnostic** and productionized behind an API.
 
 ### Current State
 - Implemented as a research prototype in Jupyter Notebook
